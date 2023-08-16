@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color:white;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.image{
+    padding: 20px;
+    margin-top: 150px;
+}
+img{
+    width: 30%;
+    position: relative;
+    background-repeat: no-repeat;
+}
+input{
+    text-align: center;
+    border-radius: 13px;
+    width: 380px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+button{
+    font-size: 15px;
+    padding: 10px;
+    background-color:aliceblue;
+    color: black;
+    border:  white ;
+}
+.g{
+    margin-right: 5px;
+}
+.h{
+    margin-left: 5px;
+}
